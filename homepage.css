@@ -1,0 +1,9 @@
+h1 {
+	color:lime;
+}
+body {
+	background: black;
+}
+p, ul {
+	color: lightgreen;
+}
